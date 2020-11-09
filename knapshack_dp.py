@@ -1,6 +1,4 @@
-# This is the memoization approach of  
-# 0 / 1 Knapsack in Python in simple  
-# we can say recursion + memoization = DP 
+# DP approach for the knapsack problem
   
 
 '''
